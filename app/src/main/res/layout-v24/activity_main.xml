@@ -25,7 +25,7 @@
         android:layout_alignStart="@+id/textvView"
         android:layout_below="@+id/textvView"
         android:layout_marginTop="33dp"
-        android:text="7.0(Naugart)です！"
+        android:text="7.0(Nougart)です！"
         android:textSize="18sp" />
 
     <TextView
